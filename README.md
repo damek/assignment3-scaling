@@ -1,6 +1,7 @@
 # Getting started with my code 
 
 ## Getting UV installed
+
 ```bash 
 # for runai use the following line: 
 runai submit cs336-dev \ -p <user> \  -i nvcr.io/nvidia/pytorch:25.06-py3 \  -g 1 --interactive --attach \  --command -- bash # replace -g 1 with -g 4 for 4 GPUs.
