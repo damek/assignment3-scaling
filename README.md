@@ -1,5 +1,13 @@
 # Getting started with my code 
 
+## Problems
+
+So this was kind of a sad assignment for people not in the course. The main API one uses to 'test' the scaling law is only available for stanford students. Nevertheless, I did the first exercise "chinchilla_isoflop":
+
+- Fitting a scaling law to training points 
+    - Code: [chinchilla_isoflops.py](cs336_scaling/chinchilla_isoflops.py)
+    - Output: [chinchilla_isoflops.md](cs336_scaling/outputs/chinchilla_isoflops.md)
+
 ## Getting UV installed
 
 ```bash 
@@ -13,7 +21,6 @@ uv sync
 uv venv
 source .venv/bin/activate
 ```
-
 
 # CS336 Spring 2025 Assignment 3: Scaling
 
